@@ -17,6 +17,24 @@
         "addr": 123248848,
         "patch_bytes": "uAEAAADD"
       }
+    ],
+    "C050360248D6ACA059EC362F70480050DCBE1CF5FB9A88A0B469B210F0E8E198": [
+      {
+        "addr": 123248656,
+        "patch_bytes": "uAEAAADD"
+      }
+    ],
+    "D33AC0C908786C2CD45B5BD5A2CC591C023759B65E729DA7F9542CFF57448D58": [
+      {
+        "addr": 123245536,
+        "patch_bytes": "uAEAAADD"
+      }
+    ],
+    "FDDE0AB579669401FE70C5D5AF279E0397C9653DB1757EB1E07625DDCAF95EAF": [
+      {
+        "addr": 139113504,
+        "patch_bytes": "uAEAAADD"
+      }
     ]
   }
 }
