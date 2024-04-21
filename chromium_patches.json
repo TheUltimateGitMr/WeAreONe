@@ -35,6 +35,36 @@
         "addr": 139113504,
         "patch_bytes": "uAEAAADD"
       }
-    ]
+    ],
+    "55379B7726FB7E369C5F68EE17A2CB795F9E830FF9B8C25E9D9331FC8C565AEF": [
+      {
+        "addr": 123245824,
+        "patch_bytes": "uAEAAADD"
+      }
+    ],
+    "6092D6A21A74E013057A869CBF8C7DEB952B4B591CF6C8E476285E8F6CC251ED": [
+      {
+        "addr": 125089568,
+        "patch_bytes": "uAEAAADD"
+      }
+    ],
+    "68E0CF303D4ADEE609BF730B4E9542FF3C3242511325F2D27E4944A960EB1BBD": [
+      {
+        "addr": 125122176,
+        "patch_bytes": "uAEAAADD"
+      }
+    ],
+	"D297160A89AA08C19A24483F2E0DD0AC263CA96BEDAC853F0A912BB9343F948F": [
+	{
+		"addr": 125122352,
+		"patch_bytes": "uAEAAADD"
+	}
+	],
+	"588E29F504AE6261DB5D9F7A33C84B9369F1D897307603B57AAE1B5240742419": [
+	{
+		"addr":140807472,
+		"patch_bytes": "uAEAAADD"
+	}
+	]
   }
 }

